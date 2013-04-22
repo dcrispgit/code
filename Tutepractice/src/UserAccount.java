@@ -1,4 +1,3 @@
-package pracTest;
 
 public class UserAccount {
 	private int userNumber;
